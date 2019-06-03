@@ -1,0 +1,11 @@
+ID	Text	Bokstav	Info
+SEP0152390	Klistras på prov	A	Klistras LÄNGSMED röret
+SEP0152390	Klistras på blankett	B	 
+SEP0152391	Klistras på prov	A	Klistras LÄNGSMED röret
+SEP0152391	Klistras på blankett	B	 
+SEP0152392	Klistras på prov	A	Klistras LÄNGSMED röret
+SEP0152392	Klistras på blankett	B	 
+SEP0152393	Klistras på prov	A	Klistras LÄNGSMED röret
+SEP0152393	Klistras på blankett	B	 
+SEP0152394	Klistras på prov	A	Klistras LÄNGSMED röret
+SEP0152394	Klistras på blankett	B	 
