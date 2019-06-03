@@ -1,0 +1,9 @@
+## Code to generate tags for printing
+In order to generate barcodes for printing we usually print paired labels, one that goes on a tube and one that is added to an information sheet.
+
+In most cases we obtained unique ids and we read them from an excel file. A section of such a file is found in this repo both as a text file and an excel file. The later is only to make the below code executable without any modification.
+
+```{r}
+
+
+```
